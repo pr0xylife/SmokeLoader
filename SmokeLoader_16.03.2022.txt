@@ -1,0 +1,33 @@
+SmokeLoader 2022 | Version 2020 
+
+************************************************************************************************************
+
+.zip de6e99e4bea7c5ebfb794fe354f7710561af53cb8e2243b18519abad425e7d7a
+.xll 181e8199c373271be6ab13287d4722e60d6839d4611893d1748d69d939097900
+.exe efe40f2a29e620df2de6929ba116e22c3f94174eb1ee8191d4af8ce7fa00a212
+
+************************************************************************************************************
+
+Exec >>
+
+=CALL("C:\Users\Admin\AppData\Local\Temp\Statement - February 2022.xll", "xlAutoOpen", "",)
+=CALL("C:\Users\Admin\AppData\Local\Temp\Statement - February 2022.xll", "xlAutoClose", "")
+
+EXCEL.EXE" "C:\Users\Admin\AppData\Local\Temp\Statement - February 2022.xll"
+
+http://ejeana.co.ug/m1/cc1.exe
+
+C:\Users\Admin\AppData\Local\Temp\ssee.exe
+ 
+C:\Windows\SysWOW64\explorer.exC:\Windows\SysWOW64\explorer.exe
+
+C:\Windows\system32\WerFault.exe -u -p 1976 -s 120
+
+C:\Windows\SysWOW64\explorer.exe
+
+************************************************************************************************************
+
+c2's
+
+http://ejeana.co.ug/index.php
+https://ejeana.co.ug/index.php
